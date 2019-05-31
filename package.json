@@ -1,7 +1,10 @@
 {
   "name": "Test-572",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "slappforge-sdk-aws": "0.0.5",
+    "googleapis": "29.0.0"
+  },
   "devDependencies": {
     "aws-sdk": "2.176.0"
   }
